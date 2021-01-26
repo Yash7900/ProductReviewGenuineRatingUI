@@ -1,0 +1,97 @@
+/* Website Heading */
+#main-heading{
+    text-align:center;
+    vertical-align: middle;
+    margin-left:450px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+
+/* DashBoard Navbar */   
+   .navbar {
+     background-color: #4292cae8;
+   }
+   .navbar-brand{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+   .navbar :hover {
+     background-color: rgb(133, 127, 127);
+     opacity: 1.0;
+   } 
+
+/* User Icon Right side of  Website*/   
+   #icon{
+   font-size: 2.2em;
+   margin-left: 400px;
+   margin-top: 2px;
+   }
+
+/* Card inside content part User Home Page*/   
+.card{
+  width:30%;
+}
+.row{
+  display: flex;
+  box-sizing: border-box;
+}
+
+
+/* Footer in Reacter*/
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #4292cae8;
+  text-align: center;
+  margin-top: 50%;
+}   
+
+/* Admin Product View Table Card*/
+#adminProductView{
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+/*User Product View Table*/
+#productViewByCategory{
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+/* Admin Add Product Card*/
+#adminAddProduct{
+  width:50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  background-color: rgba(90, 174, 185, 0.849);
+}
+/* Product Add Form*/
+.form-control{
+ 
+  margin-left: 50%;
+  display: block;
+  margin-right: 50%;
+  
+}
+#addButton{
+  margin-left: 160px;
+}
+
+/* Admin View Product Table*/
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+}
+td:hover {background-color: #bbb3b3;}
+tr:nth-child(even) {background-color: #5eb952;}
+
+/*View By Category Text*/
+#category{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

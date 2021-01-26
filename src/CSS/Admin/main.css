@@ -1,0 +1,70 @@
+body {
+  
+    margin: 0;
+    background-color:rgb(216, 241, 241);
+    
+  }
+  
+  /* code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+     
+  } */
+  /* nav{
+    min-height: 30px;
+    background:black;
+    opacity: 50%;
+  } */
+  /* .navbar-brand{
+    padding-left:120px;
+    padding-right:120px;
+    color:cornsilk;
+    text-decoration: none;
+    text-align: center;
+  } */
+  .icon{
+    padding-left:250px;
+    
+  }
+  /* h1{
+    display:flex;
+    justify-content: center;
+    margin-left: 300px;
+  } */
+  footer{
+    margin-top: 50%;
+  }
+
+
+  /* for the table */
+table{
+    margin: auto;
+     width: 60% !important; 
+  }
+  /* for table header */
+  table th{
+    background-color:yellowgreen;
+  }
+  /* for table data */
+  table tr td{
+    background-color:palegreen;
+  }
+  /* for delete button */
+  /* .btn{
+    border:1px solid black;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    background: yellowgreen;
+   
+  } */
+  /* for hover effect */
+  /* .btn:hover{
+    background: tomato;
+    cursor:pointer;
+  } */
+  /* for footer */
+  .footer{
+    margin-top: 20%;
+  }
+
